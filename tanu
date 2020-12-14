@@ -120,10 +120,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.twitter.com/ ༒☬☠Sᴋ᭄MISBAHᴮᴼˢˢ☠︎☬༒,)
+            os.system('xdg-open https://www.twitter.com/,)
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/༒☬☠Sᴋ᭄MISBAHᴮᴼˢˢ☠︎☬༒,)
+        os.system('xdg-open https://www.facebook.com/.MISBAHBADSHA,)
 
 def login():
 	os.system('clear')
